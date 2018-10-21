@@ -22,7 +22,7 @@ public class UserInterface {
 
 		while (reader.hasNextLine()) {
 
-			String inputNumber = reader.nextLine();
+			String inputNumber = reader.nextLine().trim().toUpperCase();
 
 			if (regexAndChecks.validArabicNumber_from_1_to_4999(inputNumber)) {
 				String result = convertArabicToRoman.convertArabicNumberToRoman(inputNumber);
