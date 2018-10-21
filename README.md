@@ -1,4 +1,4 @@
-# Conversion-of-Roman-to-Arabic-and-of-Arabic-to-Roman-number
+# Conversion-from-Roman-to-Arabic-and-from-Arabic-to-Roman-numbers
 Conversion range: from 1 to 4999
 
 Leading zeros are allowed for Arabic numbers.
